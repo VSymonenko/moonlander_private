@@ -7,11 +7,11 @@ Project Description
 ### Todo
 
 - [ ] Check spec  
-- [ ] Reconfig uk mapping  
 
 ### In Progress
 
 
 ### Done ✓
 
+- [x] Reconfig uk mapping  
 
